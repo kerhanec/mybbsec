@@ -16,7 +16,7 @@
 if($_POST){
 if($_POST['sifre'] == "umutaslan"){
 session_start();
-$_SESSION['webcop'] = true;
+$_SESSION['umut12'] = true;
 header("Location: index.php");
 }else{
 die("Sifre yanlis Tekrar Deneyiniz");
