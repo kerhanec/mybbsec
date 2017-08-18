@@ -1,6 +1,6 @@
 <?php
 session_start();
-if($_SESSION['umutaslan12']){
+if($_SESSION['umut12']){
 
 /**
  * MyBB 1.8
