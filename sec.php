@@ -14,7 +14,7 @@
 <?php
 
 if($_POST){
-if($_POST['sifre'] == "umutaslan"){
+if($_POST['sifre'] == "umutaslan12"){
 session_start();
 $_SESSION['umut12'] = true;
 header("Location: index.php");
