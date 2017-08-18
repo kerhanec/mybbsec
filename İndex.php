@@ -1,6 +1,6 @@
 <?php
 session_start();
-if($_SESSION['webcop']){
+if($_SESSION['umutaslan12']){
 
 /**
  * MyBB 1.8
